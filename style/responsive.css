@@ -1,0 +1,22 @@
+*{ box-sizing:border-box; }
+
+@media screen and (max-width:767px){
+	.team .col-md-3{
+		max-width: 39%;
+	}
+	.team .rounded-circle{
+		margin: 10px -10px;
+	}
+	.team .col-md-3 h5{
+		font-size: 14px;
+	}
+	.team .col-md-3 p{
+		font-size: 12px;
+	}
+	.team .col-md-3 .btn{
+		font-size: 21px;
+	}
+	.team .col-md-3 i{
+		margin-left: 5px;
+	}
+}
